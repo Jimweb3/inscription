@@ -8,4 +8,4 @@
 符文发币等
 
 提供相关的支持，有成套铭文相关协议开发经验和代码。
-如里需要可联系：qjlhlh@gmail.com
+需要可联系：qjlhlh@gmail.com
